@@ -1,4 +1,5 @@
 # Across The Obelisk - MoreTranslations Mod
+// JUST A FORK WHILE I AM TRANSLATING THE GAME IN FRENCH //
 
 With this mod you can easily create custom translations for the game without having to edit the game files.
 
