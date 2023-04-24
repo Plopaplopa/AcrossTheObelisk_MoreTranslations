@@ -80,132 +80,132 @@ menuQuit=Quitter le jeu
 menuChallenge=Défi Obelisk
 mainMenu=Menu principal
 inputNameMultiplayer=Veuillez entrer votre pseudonyme dans la zone de texte ci-dessous pour pouvoir rejoindre ou créer des parties multijoueurs.
-playersReady=Players ready
-waitingForPlayers=Waiting for players
-wantToQuitGame=Do you want to quit the game?
-wantToRemoveSave=Do you want to delete this saved game?
-wantToRemoveSavePermanent=It will be deleted permanently.
-saveAvailable=[Available]
-back=Back
-backMainMenu=<size=+10><< Back</size><br>Main menu
-singleplayer=Singleplayer
-multiplayer=Multiplayer
-weeklySingleplayer=Weekly Singleplayer
-weeklyMultiplayer=Weekly Multiplayer
-obeliskChallenge=Obelisk Challenge
-obeliskChallengeSingleplayer=Obelisk Challenge Singleplayer
-obeliskChallengeMultiplayer=Obelisk Challenge Multiplayer
-weekNumber=Week {0}
-mainMenuSaveSingle=Singleplayer game
-mainMenuSaveMulti=Multiplayer game
-mainMenuCreateNewGame=Create new game
-mainMenuClickUseThis=Click here to use this slot
-mainMenuDelete=Delete
-mainMenuSaveDescription=Choose a save slot for this game (or load a previously saved game).
-mainMenuGameModeChoose=Choose a game mode.
-mainMenuAdventureDescription=<color=#FFD98F>Unveil the history of Senenthia.</color><br><br>Discover new characters, unlock cards and fight evil bosses in this roguelite adventure.
-mainMenuObeliskDescription=<color=#FFD98F>A fully random roguelike adventure.</color><br><br>Every game will be different as you progress through the void while trying to reach the Obelisk.
-mainMenuWeeklyDescription=<color=#FFD98F>Compete against other players.</color><br><br>Each week, a new set of rules and fixed characters awaits. See who can get the top score.
-modeAdventure=Adventure mode
-modeObelisk=Obelisk challenge
-modeWeekly=Weekly challenge
-obeliskNeedCharacter=You need a character with rank 3
-joinMultiplayer=Join a multiplayer game
-abortMultiplayer=One player disconnected. The game will close now. You can create a new game and load from the last save point.
-abortSave=There was an error saving the game. The game will close now to avoid further problems. You can create a new game and load from the last save point.
-enterText=Enter text...
-waitingPlayers=Waiting for players...
-exitRoom=Exit room
-steamInvite=Invite Steam friends
-roomFull=The room is full.
-openSlot=[open slot]
-roomId=Room ID
-master=Master
-slash=Slashing
-piercing=Piercing
-blunt=Blunt
-fire=Fire
-cold=Cold
-lightning=Lightning
-mind=Mind
-holy=Holy
-shadow=Shadow
+playersReady=Joueurs prêts
+waitingForPlayers=En attente des joueurs
+wantToQuitGame=Voulez-vous quitter le jeu ?
+wantToRemoveSave=Voulez-vous supprimer cette sauvegarde ?
+wantToRemoveSavePermanent=Elle sera supprimée définitivement.
+saveAvailable=[Disponible]
+back=Retour
+backMainMenu=<size=+10><< Retour</size><br>Menu principal
+singleplayer=Un joueur
+multiplayer=Multijoueur
+weeklySingleplayer=Hebdomadaire Un joueur
+weeklyMultiplayer=Hebdomadaire Multijoueur
+obeliskChallenge=Défi Obélisque
+obeliskChallengeSingleplayer=Défi Obélisque Un joueur
+obeliskChallengeMultiplayer=Défi Obélisque Multijoueur
+weekNumber=Semaine {0}
+mainMenuSaveSingle=Partie solo
+mainMenuSaveMulti=Partie multijoueur
+mainMenuCreateNewGame=Créer une nouvelle partie
+mainMenuClickUseThis=Cliquez ici pour utiliser cet emplacement
+mainMenuDelete=Supprimer
+mainMenuSaveDescription=Choisissez un emplacement de sauvegarde pour cette partie (ou chargez une partie précédemment sauvegardée).
+mainMenuGameModeChoose=Choisissez un mode de jeu.
+mainMenuAdventureDescription=<color=#FFD98F>Dévoilez l'histoire de Senenthia.</color><br><br>Découvrez de nouveaux personnages, débloquez des cartes et combattez des boss maléfiques dans cette aventure roguelite.
+mainMenuObeliskDescription=<color=#FFD98F>Une aventure roguelike entièrement aléatoire.</color><br><br>Chaque partie sera différente lorsque vous progresserez à travers le vide en essayant d'atteindre l'Obélisque.
+mainMenuWeeklyDescription=<color=#FFD98F>Affrontez d'autres joueurs.</color><br><br>Chaque semaine, un nouvel ensemble de règles et de personnages fixes vous attend. Voyez qui peut obtenir le meilleur score.
+modeAdventure=Mode Aventure
+modeObelisk=Défi Obélisque
+modeWeekly=Défi hebdomadaire
+obeliskNeedCharacter=Vous avez besoin d'un personnage de rang 3
+joinMultiplayer=Rejoindre une partie multijoueur
+abortMultiplayer=Un joueur s'est déconnecté. Le jeu se fermera maintenant. Vous pouvez créer une nouvelle partie et charger à partir du dernier point de sauvegarde.
+abortSave=Une erreur s'est produite lors de la sauvegarde du jeu. Le jeu se fermera maintenant pour éviter d'autres problèmes. Vous pouvez créer une nouvelle partie et charger à partir du dernier point de sauvegarde.
+enterText=Saisir le texte...
+waitingPlayers=En attente des joueurs...
+exitRoom=Quitter la salle
+steamInvite=Inviter des amis Steam
+roomFull=La salle est pleine.
+openSlot=[emplacement libre]
+roomId=ID de la salle
+master=Maître
+slash=Tranchant
+piercing=Perforant
+blunt=Contondant
+fire=Feu
+cold=Froid
+lightning=Éclair
+mind=Mental
+holy=Sacré
+shadow=Ombre
 #########
 ######### CreateTextGameplay
 #########
 index=Index
-loading=Loading
+loading=Chargement
 deck=Deck
-characterMenuCards=<sprite name=cards> Hero Deck
-characterMenuLevel=<sprite name=experience> Level & Traits
-characterMenuItems=<sprite name=block> Equipment
-characterMenuStats=<sprite name=sheet> Character Sheet
-characterMenuPerks=<sprite name=perk> Perks
-characterMenuCombatDraw=<sprite name=cards> Draw Pile
-characterMenuCastedCards=<sprite name=cards> Cast Cards
-characterMenuCombatDiscard=<sprite name=cardsdiscard> Discard Pile
-characterMenuCombatVanish=<sprite name=vanish> Vanished Cards
+characterMenuCards=<sprite name=cards> Deck du héros
+characterMenuLevel=<sprite name=experience> Niveau & Traits
+characterMenuItems=<sprite name=block> Équipement
+characterMenuStats=<sprite name=sheet> Fiche du personnage
+characterMenuPerks=<sprite name=perk> Atouts
+characterMenuCombatDraw=<sprite name=cards> Pioche
+characterMenuCastedCards=<sprite name=cards> Cartes jouées
+characterMenuCombatDiscard=<sprite name=cardsdiscard> Défausse
+characterMenuCombatVanish=<sprite name=vanish> Cartes évanouies
 traits=Traits
-activatedTraits=Activated traits
-traitsList=Innate<br>Level 2<br>Level 3<br>Level 4<br>Level 5
-item=Item
-initialCards=Initial cards
-incrementMaxHp=+<N> Max HP
-level=Level
-levelNumber=Level <N>
-warriors=Warriors
+activatedTraits=Traits activés
+traitsList=Innée<br>Niveau 2<br>Niveau 3<br>Niveau 4<br>Niveau 5
+item=Objet
+initialCards=Cartes initiales
+incrementMaxHp=+<N> PV max
+level=Niveau
+levelNumber=Niveau <N>
+warriors=Guerriers
 mages=Mages
-healers=Healers
-scouts=Scouts
-mageknights=Mage Knights
-monsters=Monsters
-warriorCards=Warrior Cards
-mageCards=Mage Cards
-healerCards=Healer Cards
-scoutCards=Scout Cards
-injuries=Injuries
-boons=Boons
-equipment=Equipment
-upgradedCard=Upgraded
-upgradesTo=Upgrades to
-upgradedFrom=Upgraded from
-transmutesTo=Transmutes to
-sourceCard=Source Card
-unlockedCard=Unlocked
-unlockedHero=Unlocked
-unlockedCards=Unlocked Cards
-unlockTable=Unlocked Elements
-glossary=Glossary
-termsGlossary=Terms Glossary
-termsDescription=Summaries and descriptions of the terms used in game, auras, curses and effects.
-gameplayStatistics=Gameplay statistics
-bestScoreTome=Best score:
-lastRuns=Past games
-scoreboards=Scoreboards
-chooseScoreboard=Choose a scoreboard.
-scoresNotFound=Scores not found
-travelPath=Travel path
-path=Path
-cardsUnlockedTome=Cards unlocked:
-adventuresPlayedTome=Adventures played:
-treasuresClaimedTome=Treasures claimed:
-monstersKilledTome=Monsters killed:
-bossesKilledTome=Bosses killed:
-corruptionsCompleted=Corruptions completed:
-adventureCompleted=Adventure completed:
-uniqueBosses=Unique Bosses
-experienceGainedTome=Experience gained:
-equipmentDiscoveredTome=Equipment discovered:
-heroDeaths=Hero deaths:
-totalResources=Total resources:
-gold=Gold
-shards=Shards
-goldGainedTome=Gold gained:
-dustGainedTome=Shards gained:
-cardsCraftedTome=Cards crafted:
-cardsUpgradedTome=Cards upgraded:
-purchasedItemsTome=Purchased items:
-corruptionsCompletedTome=Corruptions completed:
+healers=Soigneurs
+scouts=Éclaireurs
+mageknights=Chevaliers-mages
+monsters=Monstres
+warriorCards=Cartes Guerrier
+mageCards=Cartes Mage
+healerCards=Cartes Soigneur
+scoutCards=Cartes Éclaireur
+injuries=Blessures
+boons=Bénédictions
+equipment=Équipement
+upgradedCard=Améliorée
+upgradesTo=Évolue en
+upgradedFrom=Améliorée depuis
+transmutesTo=Se transmute en
+sourceCard=Carte source
+unlockedCard=Débloquée
+unlockedHero=Débloqué
+unlockedCards=Cartes débloquées
+unlockTable=Éléments débloqués
+glossary=Glossaire
+termsGlossary=Glossaire des termes
+termsDescription=Résumés et descriptions des termes utilisés dans le jeu, auras, malédictions et effets.
+gameplayStatistics=Statistiques de jeu
+bestScoreTome=Meilleur score :
+lastRuns=Parties précédentes
+scoreboards=Classements
+chooseScoreboard=Choisissez un classement.
+scoresNotFound=Scores introuvables
+travelPath=Chemin de voyage
+path=Chemin
+cardsUnlockedTome=Cartes débloquées :
+adventuresPlayedTome=Aventures jouées :
+treasuresClaimedTome=Trésors récupérés :
+monstersKilledTome=Monstres tués :
+bossesKilledTome=Boss tués :
+corruptionsCompleted=Corruptions terminées :
+adventureCompleted=Aventure terminée :
+uniqueBosses=Boss uniques
+experienceGainedTome=Expérience gagnée :
+equipmentDiscoveredTome=Équipement découvert :
+heroDeaths=Morts de héros :
+totalResources=Ressources totales :
+gold=Or
+shards=Éclats
+goldGainedTome=Or gagné :
+dustGainedTome=Éclats gagnés :
+cardsCraftedTome=Cartes fabriquées :
+cardsUpgradedTome=Cartes améliorées :
+purchasedItemsTome=Objets achetés :
+corruptionsCompletedTome=Corruptions terminées :
 Melee_Attack=Melee attack
 Ranged_Attack=Ranged attack
 Magic_Attack=Magic attack
